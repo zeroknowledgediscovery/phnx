@@ -126,3 +126,7 @@ echo "Task 3"
 ```
 ./phnx_status.sh <newly_created_phnx_directory>
 ```
+## License
+
+
+This project is licensed under the GPL2 License.
