@@ -30,7 +30,7 @@ git clone git@github.com:zeroknowledgediscovery/phnx.git
 Change to the repository directory:
 
 ```
-cd repo
+cd phnx
 
 ```
 
