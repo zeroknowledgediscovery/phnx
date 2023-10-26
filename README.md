@@ -23,7 +23,7 @@ PHNX is a utility for managing and scheduling batch jobs on a SLURM-based HPC sy
 Clone the repository or download the files directly:
 
 ```bash
-git clone https://github.com/user/repo.git
+git clone git@github.com:zeroknowledgediscovery/phnx.git
 
 ```
 
